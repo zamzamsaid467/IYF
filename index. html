@@ -1,10 +1,4 @@
-Folder Structure:
-IYF/
-│
-├── index.html
-├── style.css
-└──  logo.png  (placeholder or your logo)
-🔹 index.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
